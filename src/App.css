@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Raleway", sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+
+.cursos{
+    background-color: white;
+}
+
+#titulo-cursos{
+    color: #45b8ac;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+}

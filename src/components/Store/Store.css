@@ -1,0 +1,14 @@
+.store {
+    background: rgb(16,24,32);
+    background: linear-gradient(180deg, rgba(16,24,32,1) 15%, rgba(82,88,107,1) 78%);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #134c8f;
+}

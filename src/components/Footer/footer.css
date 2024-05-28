@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer nav {
+    padding: 15px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+footer nav img {
+    width: 50px;
+}
