@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import  Header  from "./components/Header/Header.jsx";
 import "./App.css";
-import  Register  from "./components/Register/Register";
+import  Register1  from "./components/Register/Register";
 import  Comunity  from "./components/Comunity/Comunity";
 import  Store  from "./components/Store/Store";
 import  Home  from "./components/Home/Home";
@@ -30,5 +30,4 @@ export default function App() {
     </Router>
   );
 }
-
 
